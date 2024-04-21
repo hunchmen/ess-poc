@@ -32,3 +32,4 @@ replay_pid*
 *.classpath
 *.settings
 *.mvn
+*HELP.md
